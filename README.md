@@ -13,7 +13,7 @@ Thank you for downloading 3DConsoleGame (the name will probably change in the fu
 ### 1. Explaination and instructions
 #### 1.1 Game world, movement and interaction
 This game, despite being in a 3D world, is played on a 2D console window. On the left half of the window, you can see a game world while on the right half a UI is visible.
-The game world consists of 20 * 20 and infinite in depth fields. Each field has its own unique coordinates. The player, who's character is a capital P on the game world, is able to use the WASD keys to change their X and Y coordiantes and the Q and E keys to change their Z coordinate.
+The game world consists of 20 * 20 and infinite in depth fields. Each field has its own unique coordinates. The player, which's character is a capital P on the game world, is able to use the WASD keys to change their X and Y coordiantes and the Q and E keys to change their Z coordinate.
 Every game object has a unique symbol on the game world. Currently there are:
 
 - P = player
