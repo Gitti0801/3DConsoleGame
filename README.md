@@ -45,7 +45,7 @@ The entities are:
   - This object is displayed with a capital E. There are currently 3 types of enemies: Normal enemies, angels and demons. Normal enemies can be killed by interacting with them, while angels and demons cannot be killed currently, and will instead steal health from the player upon interaction. Note that the player currently cannot die.
 
 #### 1.3 Inventory
-The inventory can be opened by pressing the B key. The player can now see a list of all items they currently have. The player can cycle through that list and read a short description to each item and is able to use it by pressing F. Note that only the campfire can be used.
+The inventory can be opened by pressing the B key. The player can now see a list of all items they currently have. The player can cycle through that list and read a short description to each item and is able to use it by pressing F. Note that only the campfire can be used right now.
 Currently only wood can be obtained by chopping down trees. The player starts with three items of each type. Note that this is only a temporary feature and will be removed when crafting will be introduced.
 
 #### 1.4 Dimensions
